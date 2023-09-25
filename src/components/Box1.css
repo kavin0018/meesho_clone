@@ -1,0 +1,141 @@
+.Box1{
+    width: 100%;
+    height:max-content;
+    align-items: center;
+    justify-content: center;
+}
+.box1-box{
+    width: 85%;
+    height: 500px;
+    background-image: url("https://images.meesho.com/images/marketing/1678691670429_1200.webp");
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    
+}
+.boxleft{
+    width:40%;
+    margin-left: 40px;
+}
+.boxright{
+    width:60%;
+    margin-top: 150px;
+}
+.boxrightimg{
+    display: flex;
+    gap: 15px;
+}
+.box1-2{
+    width: 85%;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.meesho.com/images/marketing/1678691743015_1200.webp");
+}
+.box1-2btn{
+    width: 30%;
+    text-align: center;
+}
+.box1-2btn button{
+    width: 180px;
+    height: 70px;
+    background-color: purple;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    margin-right: 70px;
+    margin-top: 70px;
+
+}
+.box1-2img1{
+    width: 20%;
+    text-align: center;
+}
+.box1-3{
+    width: 85%;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.meesho.com/images/marketing/1678691892265_1200.webp");
+}
+.box1-3btn{
+    width: 30%;
+    text-align: center;
+}
+.box1-3btn button{
+    width: 180px;
+    height: 70px;
+    background-color: purple;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    margin-right: 70px;
+    margin-top: 70px;
+
+}
+.box1-3img1{
+    width: 20%;
+    text-align: center;
+}
+.box1-4{
+    width: 85%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.meesho.com/images/pow/downloadBannerDesktop_1050.webp");
+}
+.box1-4imgcontent{
+    width: 660px;
+    height: 356px;
+    text-align: right;
+    margin-left: 250px;
+}
+.box1-4imgcontent h4{
+    font-size: 32px;
+    color: rgb(85, 133, 248);
+    font-weight: 500;
+}
+.box1-4imgcontent h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(159, 32, 137);
+    line-height: 20px;
+    padding-top: 40px;
+}
+.box1-4btn{
+    margin-top: 70px;
+}
+.box1-4btn a{
+    margin-left: 10px;
+}
+.box1-5{
+    width: 85%;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-image: url("https://images.meesho.com/images/pow/supplyBannerDesktop_1106.webp");
+    background-repeat: no-repeat;
+    color: white;
+    line-height: 30px;
+    padding-left: 50px;
+}
+.box1-5 p{
+    margin-top: 20px;
+}
